@@ -1,9 +1,10 @@
 # mern-shop
-git clone ..
+git clone // 
 
-cd client 
-npm i
-cd ..
-npm i
+cd client //
+npm i //
+cd .. //
+cd server //
+npm i //
 
 npm run dev  
