@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import {BrowserRouter as Router} from "react-router-dom"
 import {DataProvider} from "./GlobalState"
@@ -16,5 +17,6 @@ function App() {
     </DataProvider> 
   );
 }
+
 
 export default App;

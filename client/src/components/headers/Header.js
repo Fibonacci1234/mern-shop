@@ -1,10 +1,10 @@
 import React, {userState, userContext, useContext} from 'react'
 import {GlobalState} from "../../GlobalState"
-import Arrow from "./icons/Arrow.svg"
 import Menu from "./icons/Menu.svg"
 import Close from "./icons/Close.svg"
 import Cart from "./icons/Cart.svg"
 import {Link} from "react-router-dom" 
+
 
 function Header(){
     const value = useContext(GlobalState)
